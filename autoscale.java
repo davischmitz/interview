@@ -1,9 +1,9 @@
-class GFG {
+class Solution {
 
     // Function to find the number of
     // instances after compintion
     public static void finalInstances(int instances, int[] arr) {
-      
+
     }
 
     // Driver Code
