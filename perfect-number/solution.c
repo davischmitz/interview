@@ -1,0 +1,3 @@
+bool isPerfect(int num) {
+    
+}
