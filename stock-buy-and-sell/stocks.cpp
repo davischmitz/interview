@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to find the number of
-// instances after computation
 void maxProfit(int arr[], int N)
 {
 }
